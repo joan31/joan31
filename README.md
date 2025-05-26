@@ -10,6 +10,8 @@
 I'm a passionate **System Administrator** with a strong focus on **Linux**, **Unix**, **virtualization**, and **enterprise storage**.  
 Always eager to learn, automate, and push the limits of my homelab.
 
+---
+
 ## 📌 Table of Contents
 
 - [🛠️ Tech Stack](#️-tech-stack)
