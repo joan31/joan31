@@ -5,6 +5,7 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&style=flat-square)
 ![Arch Linux](https://img.shields.io/badge/Distro-Arch-blue?logo=arch-linux&style=flat-square)
 ![Scripting](https://img.shields.io/badge/Scripting-Bash-green?logo=gnubash&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes&logoColor=white&style=flat-square)
 
 I'm a passionate **System Administrator** with a strong focus on **Linux**, **Unix**, **virtualization**, and **enterprise storage**.  
 Always eager to learn, automate, and push the limits of my homelab.
@@ -15,7 +16,7 @@ Always eager to learn, automate, and push the limits of my homelab.
 - [🚀 Projects & Interests](#-projects--interests)
 - [📫 Connect with me](#-connect-with-me)
 - [📊 GitHub Stats](#-github-stats)
-- [🧠 Currently Exploring](#-currently-exploring)
+- [🧠 Learning & Exploring](#-learning--exploring)
 
 ---
 
@@ -26,6 +27,7 @@ Always eager to learn, automate, and push the limits of my homelab.
 - ☁️ **Virtualization**: VMware, Nutanix, Proxmox
 - 📦 **Storage**: NetApp (NAS), Synology (NAS), Huawei (SAN), Scality (S3)
 - 💾 **Backup**: Rubrik, Veeam, NetBackup
+- ☸️ **Containers & Orchestration**: Docker, Kubernetes
 
 ---
 
@@ -56,7 +58,7 @@ Always eager to learn, automate, and push the limits of my homelab.
 
 ---
 
-## 🧠 Currently Exploring
+## 🧠 Learning & Exploring
 
 - 🛠️ Dotfiles & tiling window managers
 - 🏠 Homelab: Proxmox, Docker, Kubernetes
