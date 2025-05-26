@@ -33,7 +33,7 @@ Always eager to learn, automate, and push the limits of my homelab.
 
 ## 🚀 Projects & Interests
 
-- 🧩 Custom WMs: Wayland (Hyprland, Sway), X11 (bspwm, i3)
+- 🧩 Custom WMs: Wayland (Hyprland, Sway), X11 (bspwm, i3wm)
 - 🎮 Linux Gaming: Proton, Wine, Steam API
 - 🔄 Automation: Bash scripting, dotfiles, homelab workflows
 - 🧠 Learning: DevOps tools, containers, infrastructure-as-code
