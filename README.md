@@ -4,6 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/joan31?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Distro-Arch-blue?style=flat-square&logo=arch-linux)
+![Debian](https://img.shields.io/badge/Distro-Debian-crimson?style=flat-square&logo=debian)
 ![Scripting Bash](https://img.shields.io/badge/Scripting-Bash-green?style=flat-square&logo=gnubash)
 ![Scripting Zsh](https://img.shields.io/badge/Scripting-Zsh-orange?style=flat-square&logo=zsh)
 ![Language Python](https://img.shields.io/badge/Language-Python-deepskyblue?style=flat-square&logo=python)
