@@ -1,11 +1,13 @@
 # 👋 Hi there, I'm Joan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joan31&style=flat-square)
-![Followers](https://img.shields.io/github/followers/joan31?logo=github&style=flat-square)
-![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&style=flat-square)
-![Arch Linux](https://img.shields.io/badge/Distro-Arch-blue?logo=arch-linux&style=flat-square)
-![Scripting](https://img.shields.io/badge/Scripting-Bash-green?logo=gnubash&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes&logoColor=white&style=flat-square)
+![Followers](https://img.shields.io/github/followers/joan31?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Distro-Arch-blue?style=flat-square&logo=arch-linux)
+![Scripting Bash](https://img.shields.io/badge/Scripting-Bash-green?style=flat-square&logo=gnubash)
+![Scripting Zsh](https://img.shields.io/badge/Scripting-Zsh-orange?style=flat-square&logo=zsh)
+![Language Python](https://img.shields.io/badge/Language-Python-deepskyblue?style=flat-square&logo=python)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-darkblue?style=flat-square&logo=kubernetes)
 
 I'm a passionate **System Administrator** with a strong focus on **Linux**, **Unix**, **virtualization**, and **enterprise storage**.  
 Always eager to learn, automate, and push the limits of my homelab.
