@@ -18,6 +18,9 @@ Always eager to learn, automate, and push the limits of my homelab.
 
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Projects & Interests](#-projects--interests)
+- [📂 Active Repositories](#-active-repositories)
+- [🤝 Contributions](#-contributions)
+- [📦 Archived Repositories](#-archived-repositories)
 - [📫 Connect with me](#-connect-with-me)
 - [📊 GitHub Stats](#-github-stats)
 - [🧠 Learning & Exploring](#-learning--exploring)
@@ -41,6 +44,29 @@ Always eager to learn, automate, and push the limits of my homelab.
 - 🎮 Linux Gaming: Proton, Wine, Steam API
 - 🔄 Automation: Bash scripting, dotfiles, homelab workflows
 - 🧠 Learning: DevOps tools, containers, infrastructure-as-code
+
+---
+
+These are projects I actively maintain
+
+## 📂 Active Repositories
+
+- ✨ [dotfiles-hyprland](https://github.com/joan31/dotfiles-hyprland) – Hyprland setup
+
+---
+
+## 🤝 Contributions
+
+- 👾 [FF7SYWLinuxInstaller](https://github.com/morhue/FF7SYWLinuxInstaller) – Scripting and debugs FF7 mod installer on Steam Deck/Linux
+
+---
+
+## 📦 Archived Repositories
+
+- 🎮 [SteamForwarder](https://github.com/joan31/SteamForwarder) – Archived forked project of Steam API implementation for Wine, to interact between Windows games and Linux Steam client
+- 🧩 [dotfiles-sway](https://github.com/joan31/dotfiles-sway) – Archived Sway setup
+- 🧩 [dotfiles-bspwm](https://github.com/joan31/dotfiles-bspwm) – Archived bspwm setup
+- 🧩 [dotfiles-i3wm](https://github.com/joan31/dotfiles-i3wm) – Archived i3wm setup
 
 ---
 
