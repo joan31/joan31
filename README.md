@@ -53,6 +53,7 @@ These are projects I actively maintain
 ## 📂 Active Repositories
 
 - 🏰 [arch-fortress](https://github.com/joan31/arch-fortress) – Secure Arch Linux base installation
+- 🚀 [arch-desktop](https://github.com/joan31/arch-desktop) – Arch Desktop minimal install
 - ✨ [dotfiles-hyprland](https://github.com/joan31/dotfiles-hyprland) – Hyprland setup
 
 ---
