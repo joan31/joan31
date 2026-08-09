@@ -66,7 +66,7 @@ These are projects I actively maintain
 
 ## 📦 Archived Repositories
 
-- 🏰 [arch-fortress](https://github.com/joan31/arch-fortress) – Archived Secure Arch Linux base installation
+- 🏰 [arch-fortress](https://github.com/joan31/arch-fortress) – Archived secure Arch Linux base installation
 - 🎮 [SteamForwarder](https://github.com/joan31/SteamForwarder) – Archived forked project of Steam API implementation for Wine, to interact between Windows games and Linux Steam client
 - 🧩 [dotfiles-sway](https://github.com/joan31/dotfiles-sway) – Archived Sway setup
 - 🧩 [dotfiles-bspwm](https://github.com/joan31/dotfiles-bspwm) – Archived bspwm setup
